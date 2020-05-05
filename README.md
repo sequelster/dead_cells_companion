@@ -1,2 +1,2 @@
-# dead_cells_companion
+# Dead Cells Companion
 Stats Tracker for Dead Cells
